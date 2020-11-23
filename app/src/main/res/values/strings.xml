@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ej. Ap. 12. SQLite Room</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="listado_de_hoteles">Listado de Hoteles</string>
+    <string name="listado_de_vacaciones">Listado de Vacaciones</string>
+</resources>
